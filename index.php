@@ -1,5 +1,5 @@
 <?php
 
-echo "Welcome";
+echo "Welcome to website";
 
 ?>
